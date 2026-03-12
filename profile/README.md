@@ -1,11 +1,22 @@
-# 🚀 Apocalypse Flyleague (APOCFLY) - 专业模拟飞行平台开源方案
+# 🚀 Apocalypse Flyleague (APOCFLY) - 开源模拟飞行平台解决方案
 
-## 🌟 **项目概述**
+## 🌟 项目概述
 
-**Apocalypse Flyleague (APOCFLY)** 是一个完全开源、旨在降低模拟飞行平台搭建与运营门槛的技术共享项目。我们汇集了从平台架构、人员训练到日常运营的全套核心资源，将我们在实践中积累的宝贵经验转化为标准化、可复用的解决方案。
+**Apocalypse Flyleague (APOCFLY)** 是一个完全开源的模拟飞行平台项目，致力于降低搭建与运营专业模拟飞行环境的技术门槛。我们系统性地整合了平台架构设计、人员培训体系、日常运营流程等核心资源，将社区实践中积累的宝贵经验转化为标准化、可复用的解决方案，让每一位爱好者都能轻松构建属于自己的飞行平台。
 
-  * **维护者：** @[Master_Gui](https://github.com/supermastergui) ; @[half-nothing](https://github.com/half-nothing) ; @[XiaoZhang-store](https://github.com/XiaoZhang-store) ; @[Hank Cai](https://github.com/YuS1ck)
-  * **愿景：** 通过开源共享，促进整个模拟飞行社区的健康与繁荣。
+- **当前维护团队**  
+  - [@half-nothing](https://github.com/half-nothing)  
+  - [@XiaoZhang-store](https://github.com/XiaoZhang-store)  
+  - [@Hank Cai](https://github.com/YuS1ck)
+
+- **项目愿景**  
+  通过开放共享，激发模拟飞行社区的协作活力，共同推动整个生态的健康与繁荣发展。
+
+- **特别致谢**  
+  感谢曾经为项目付出心血的历史维护者（排名不分先后）：  
+  - [@Master_Gui](https://github.com/supermastergui)
+    
+  感谢他们为项目做出的贡献，我们铭记并珍视每一份付出。
 
 ## 🛠️ **核心资源与优势**
 
