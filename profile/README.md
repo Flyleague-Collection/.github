@@ -6,7 +6,6 @@
 
 - **当前维护团队**  
   - [@half-nothing](https://github.com/half-nothing)  
-  - [@XiaoZhang-store](https://github.com/XiaoZhang-store)  
   - [@Hank Cai](https://github.com/YuS1ck)
 
 - **项目愿景**  
@@ -15,6 +14,7 @@
 - **特别致谢**  
   感谢曾经为项目付出心血的历史维护者（排名不分先后）：  
   - [@Master_Gui](https://github.com/supermastergui)
+  - [@XiaoZhang-store](https://github.com/XiaoZhang-store)  
     
   感谢他们为项目做出的贡献，我们铭记并珍视每一份付出。
 
