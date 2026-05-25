@@ -7,6 +7,7 @@
 - **当前维护团队**  
   - [@half-nothing](https://github.com/half-nothing)  
   - [@Hank Cai](https://github.com/YuS1ck)
+  - [@JiangQi'an](https://github.com/JiangQianCSC)
 
 - **项目愿景**  
   通过开放共享，激发模拟飞行社区的协作活力，共同推动整个生态的健康与繁荣发展。
